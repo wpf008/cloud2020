@@ -18,7 +18,7 @@
         </dependency>
         <!--自定义api通用包-->
         <dependency>
-            <groupId>org.xzq.springcloud</groupId>
+            <groupId>com.atguigu.springcloud</groupId>
             <artifactId>cloud-api-commons</artifactId>
             <version>${project.version}</version>
         </dependency>
